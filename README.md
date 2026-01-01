@@ -59,7 +59,7 @@ My research focuses on training LLMs with sparse datasets, which is a critical c
 ### AWS & Cloud Infrastructure
 <p>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Lambda.svg" alt="lambda" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="lambda" width="40" height="40"/></a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" alt="dynamodb" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
