@@ -1,4 +1,4 @@
-# Stephen Miller | AI Engineer
+# Stephen Anthony | AI Engineer
 
 Building AI tooling and exploring low-resource language models
 
